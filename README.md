@@ -4,8 +4,7 @@
 Flutter Developer • Laravel Backend Developer • AI Automation
 </h3>
 
-<p align="center">
-Crafting Mobile Apps • Backend Systems • AI Automation</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Flutter+Developer;Laravel+Backend+Developer;Flutter+Web+Dashboard+Developer;AI+Automation+with+n8n;Using+AI+to+Build+Smarter+Solutions;Clean+Architecture+Enthusiast" />
@@ -22,37 +21,53 @@ Crafting Mobile Apps • Backend Systems • AI Automation</p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### 📱 Mobile
+```dart
+class TechStack {
+  final mobile = [
+    "Flutter",
+    "Dart",
+  ];
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  final backend = [
+    "Laravel",
+    "PHP",
+    "REST APIs",
+  ];
 
-### 🌐 Backend
+  final ai = [
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "Codex",
+    "n8n",
+  ];
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  final databases = [
+    "MySQL",
+    "SQLite",
+  ];
 
-### 🤖 AI & Automation
+  final backendServices = [
+    "Firebase",
+  ];
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+  final architecture = [
+    "Clean Architecture",
+    "MVC",
+  ];
 
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔥 Backend Services
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  final tools = [
+    "Git",
+    "GitHub",
+    "Android Studio",
+    "VS Code",
+    "Postman",
+    "Figma",
+  ];
+}
+```
 ---
 
 ### 🤖 AI Tools
@@ -65,8 +80,8 @@ Crafting Mobile Apps • Backend Systems • AI Automation</p>
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
----
-# 💼 What I Do
+
+ 💼 What I Do
 
 - 📱 Flutter Mobile Applications
 - 🌐 Laravel Backend Development
