@@ -1,30 +1,65 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter mobile applications and improving my development skills<br>👯 I’m looking to collaborate on mobile apps and real-world projects<br>🤝 I’m looking for help with backend development and system design<br>🌱 I’m currently learning backend technologies to become a Full Stack Developer<br>💬 Ask me about Flutter, app development, and learning programming<br>⚡ Fun fact I enjoy turning ideas into real working apps 🚀
+<h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
 
+<h3 align="center">
+Flutter Developer • Laravel Backend Developer
+</h3>
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username= mooalaa233&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user= mooalaa233&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username= mooalaa233&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Flutter+Developer;Laravel+Backend+Developer;Clean+Architecture+Enthusiast;Building+Mobile+%26+Web+Applications" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username= mooalaa233&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
-<!--
-**mooalaa322/mooalaa322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 Flutter Developer with experience building production-ready applications.
+- 🌐 Backend Developer using **Laravel**, **PHP**, and **MySQL**.
+- 🏗️ Interested in **Clean Architecture**, **State Management**, and scalable software.
+- 💡 I enjoy solving real-world problems by building useful applications.
+- 📚 Currently improving my backend and software architecture skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mooalaa322&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mooalaa322&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mooalaa322&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 Featured Projects
+
+- 🛒 Ecommerce Mobile App
+- 🖥️ Ecommerce Admin Dashboard (Flutter Web)
+- 🚚 Ecommerce Delivery App
+- 📚 More exciting projects coming soon...
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/mooalaa322
